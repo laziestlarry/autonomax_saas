@@ -1,0 +1,39 @@
+[
+  {
+    "id": "vp-001",
+    "title": "Creator-to-Offer Engine",
+    "who": "solo creators & micro-teams",
+    "pain": "content doesn't convert into revenue reliably",
+    "promise": "turn audience + expertise into a clear offer, funnel, and repeatable ops in days",
+    "outcome_metrics": [
+      "first offer live",
+      "first sales page live",
+      "first 10 leads",
+      "first 1-3 sales"
+    ]
+  },
+  {
+    "id": "vp-002",
+    "title": "Ops Autopilot",
+    "who": "lean digital businesses",
+    "pain": "manual ops, fragmented tools, no single source of truth",
+    "promise": "automate the boring: tasks, reminders, follow-ups, reporting, payments reconciliation",
+    "outcome_metrics": [
+      "weekly hours saved",
+      "error rate down",
+      "cashflow visibility"
+    ]
+  },
+  {
+    "id": "vp-003",
+    "title": "Proof-First Growth",
+    "who": "service/product hybrids",
+    "pain": "unclear positioning, hard to explain value",
+    "promise": "customer-facing proofs: case studies, calculators, guarantees, and credible demos",
+    "outcome_metrics": [
+      "demo to close",
+      "retention",
+      "referrals"
+    ]
+  }
+]
