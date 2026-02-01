@@ -1,0 +1,11 @@
+substitutions:
+  _IMAGE: "gcr.io/propulse-autonomax/autonomax-api:dev"
+
+steps:
+  - name: "gcr.io/cloud-builders/docker"
+    args: ["build", "-t", "${_IMAGE}", "-f", "services/autonomax_api/Dockerfile", "."]
+  - name: "gcr.io/cloud-builders/docker"
+    args: ["push", "${_IMAGE}"]
+
+images:
+  - "${_IMAGE}"
